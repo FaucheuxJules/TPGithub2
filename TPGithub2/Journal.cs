@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace TPGithub2
 {
-    public class Class1
+    public class Journal
     {
+        private int numero;
+
     }
 }
